@@ -345,7 +345,6 @@ body{
     margin-top: 10px;
     font-family: 'Bebas Neue', cursive;
     color: #292828;
-    text-shadow: 10px 10px 10px rgba(234, 234, 234, 0.2);
 }
 
 .main__contributions--texts{
@@ -438,7 +437,6 @@ body{
     line-height: 45px;
     font-family: 'Bebas Neue', cursive;
     color: #292828;
-    text-shadow: 10px 10px 10px rgba(234, 234, 234, 0.2);
 }
 
 .main__content--midias{
