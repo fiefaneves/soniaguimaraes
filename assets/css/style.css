@@ -444,7 +444,7 @@ body{
     max-width: 800px;
     display: flex;
     flex-wrap: wrap;
-    justify-content:space-evenly;
+    justify-content:center;
     margin: 0 auto;
 }
 
