@@ -721,6 +721,7 @@ body{
 }
 
 .conteudo__main{
+    border: 1px solid red;
     width: 100%;
     max-width: 800px;
     margin: 0 auto;
@@ -731,6 +732,7 @@ body{
 }
 
 .conteudo__main--title{
+    border: 1px solid green;
     padding: 10px;
     display: flex;
     flex-direction: column;
@@ -757,13 +759,13 @@ body{
 }
 
 .conteudo__main--midias{
+    border: 1px solid blue;
     width: 100%;
     max-width: 800px;
     display: flex;
     flex-wrap: wrap;
-    justify-content:space-evenly;
+    justify-content:center;
     margin: 0 auto;
-    padding: 10px;
 }
 
 .conteudo__main--midia{
